@@ -1,0 +1,5 @@
+﻿  PAGsubdivisionProfile.cpp
+d:\users\josem\documents\git\pag_bb8\pag_bb8\pagsubdivisionprofile.h(18): fatal error C1083: No se puede abrir el archivo incluir: 'glm.hpp': No such file or directory
+  PAGmain.cpp
+d:\users\josem\documents\git\pag_bb8\pag_bb8\pagmain.cpp(16): fatal error C1083: No se puede abrir el archivo incluir: 'glew.h': No such file or directory
+  Generando código...
